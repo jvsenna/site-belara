@@ -1,0 +1,266 @@
+*{margin: 0%;
+box-sizing: border-box;}
+
+body{
+    background-color: #0b0016;
+    
+}
+.p1{height: 92vh;
+background-image: url(imagens/h1_hero1.jpg);
+background-size: cover;
+background-color: rgba(0, 0, 0, 0.5);
+background-blend-mode: multiply;}
+header{ height: 10vh;}
+
+header img { margin-top: 3vh;
+margin-left: 10%;
+vertical-align: middle;
+margin-bottom: 3vh;
+}
+
+header a{font-size: 18px;
+color: white;
+text-decoration: none;
+margin-left: 40%;
+font-family: "Questrial",sans-serif;}
+
+header button{font-size: 18px;
+background-color: #D6A04C;
+color: white;
+padding: 15px;
+margin-left: 1%;
+font-family: "Questrial",sans-serif;
+width: 9%;
+transition: 0.5s;
+border-color: #D6A04C;
+}
+
+button:hover{background-color: transparent;
+border-color: #D6A04C;
+color: #D6A04C;}
+
+header svg{height: 5vh;
+vertical-align: middle;
+margin-left: 4%;
+color: white;}
+
+.loc{color: #E9E3D9;
+margin-top: 25vh;
+margin-left: 20%;
+font-family: "Questrial",sans-serif;}
+
+.titulo{color: white;
+    margin-top: 2vh;
+    margin-left: 20%;
+    font-size: 70px;
+    font-family: "Cabin" ,sans-serif;
+}
+.titulo2{color: white;
+margin-left: 20%;
+font-size: 70px;
+font-family: "Cabin" ,sans-serif;}
+
+.titulo3{color: white;
+    margin-left: 20%;
+    font-size: 70px;
+    font-family: "Cabin" ,sans-serif;}
+
+.play{color: white;
+
+font-family: "Questrial",sans-serif;
+font-size: 20px;
+position: relative; left: 60%; bottom: 20%;
+}
+
+.pllay{height: 25px;
+position: relative;left: 67%; bottom: 23%;
+fill: #D6A04C;
+display: inline-block;
+
+
+}
+.playy{
+    vertical-align: middle;
+    display: inline-block;
+    height: 80px;
+    width: 80px;
+    background-color: white;
+    border-radius: 50%;
+    position: relative;left: 67%;bottom: 24vh;
+    
+    
+}
+
+
+.mouse{
+    position: relative; left: 20%; bottom: 10vh;
+}
+
+.t1{
+    background-color: #D6A04C;
+    font-family: "Questrial",sans-serif;
+    color: white;
+    font-size: 20px;
+    height: 120px;
+    position: relative; left: 45%; bottom: 19.1vh;
+    padding-left: 2%;
+    padding-top: 2%;
+    width: 55%;
+}
+.affordable{font-family: "Questrial",sans-serif;
+    color: white;
+    position: relative; left: 45%; bottom: 25vh;
+    font-size: 20px;
+    padding-left: 2%;
+}
+.t2{
+    font-family: "Questrial",sans-serif;
+    color: white;
+    font-size: 20px;
+    height: 120px;
+    position: relative; left: 70%; bottom: 34vh;
+    padding-left: 2%;
+    padding-top: 2%;
+}
+
+.studio{
+    font-family: "Questrial",sans-serif;
+    position: relative; left: 70%; bottom: 40vh;
+    color: white;
+    font-size: 20px;
+    padding-left: 2%;
+}
+
+.p2{background-color: #0b0016;
+height: 100vh;
+margin-top: 0%;
+color: white;
+margin-left: 15%;
+font-size: 50px;
+font-family: "Cabin" ,sans-serif;
+position: relative; bottom: 25vh;}
+
+.multi{
+    color: #E9E3D9;
+    font-family: "Questrial",sans-serif;
+    font-size: 29px;
+    position: relative; left: 22%; bottom: 113vh;
+    vertical-align: middle;
+    
+}
+
+.solution{
+    vertical-align: middle;
+    color: #E9E3D9;
+    font-family: "Questrial",sans-serif;
+    font-size: 18px;
+    position: relative; bottom: 127vh; left: 53%;
+}
+
+.homemChapeu{
+    position: relative; left: 22%; bottom: 122vh;
+    
+}
+
+.learn{
+font-size: 18px;
+background-color: transparent;
+color: white;
+font-family: "Questrial",sans-serif;
+transition: 0.5s;
+border: 1px solid #D6A04C;
+position: relative; bottom: 168vh; left: 53%;
+width: 150px;
+height: 5vh;
+text-align: center;
+padding-top: 1.3vh;
+font-size: 16px;
+
+}
+
+.learn:hover{
+    background-color: #D6A04C;
+border-color: #D6A04C;
+color: white;
+
+}
+
+.mulherChapeu{
+    position: relative; left: 53%; bottom: 162vh;
+}
+
+.what{
+    color: #E9E3D9;
+    font-family: "Cabin" ,sans-serif;
+    font-size: 50px;
+    position: relative; left: 17%; bottom: 153vh;
+    vertical-align: middle;
+}
+
+.blog1{
+    position: relative;bottom: 147vh; left: 17%;
+    display: inline-block;
+    
+}
+.img1:hover{
+transform: translateY(4%);
+transition: 0.8s;
+
+}
+.commercial{
+    color: #E9E3D9;
+    position: relative;bottom: 144vh; left: 17%;
+    font-size: 30px;
+    font-family: "Cabin" ,sans-serif;
+    
+}
+.archi1{
+    position: relative;bottom: 142vh; left: 17%;
+    font-size: 12px;
+    font-family: "Questrial",sans-serif;
+    color: #E9E3D9;
+}
+
+a{text-decoration: none;}
+
+.blog2{
+    position: relative;bottom: 187vh; left: 38.5%;
+    display: inline-block;
+}
+
+.residential{
+    color: #E9E3D9;
+    position: relative;bottom: 184vh; left: 38.5%;
+    font-size: 30px;
+    font-family: "Cabin" ,sans-serif;
+}
+
+.archi2{
+    font-size: 12px;
+    font-family: "Questrial",sans-serif;
+    color: #E9E3D9;
+    margin-top: 2vh;
+}
+
+.blog3{
+    position: relative;bottom: 229vh; left: 59.8%;
+    display: inline-block;
+}
+
+.architecture{
+    color: #E9E3D9;
+    position: relative;bottom: 226vh; left: 59.8%;
+    font-size: 30px;
+    font-family: "Cabin" ,sans-serif;
+}
+
+.archi3{
+    font-size: 12px;
+    font-family: "Questrial",sans-serif;
+    color: #E9E3D9;
+    margin-top: 2vh;
+}
+
+.p3{
+    height: ;
+}
